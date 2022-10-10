@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Perso
+
+*_ft
+*_std
+ft_containers
+_*
